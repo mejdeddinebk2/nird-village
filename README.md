@@ -54,3 +54,6 @@ Chat’bruti est affiché sur toutes les pages : il est **intégré à l’expé
 ```bash
 npm install
 npm run dev
+## Démo en ligne
+
+https://nird-village.vercel.app
